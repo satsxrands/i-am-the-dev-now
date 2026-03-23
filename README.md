@@ -1,8 +1,14 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/76263028" width="80" style="border-radius:50%" />
+
 # 🏴‍☠️ Look at me.
 
 > *"Look at me. Look at me."*
-> 
+>
 > **"I am the dev now."**
+
+</div>
 
 ---
 
@@ -21,7 +27,7 @@ Now: ships bots, content pipelines, trading algos, tax tools, and school report 
 
 **Stack:**
 - Python (bots, agents, pipelines)
-- Claude Opus 4.6 (the first mate)
+- Claude Opus 4.6 (the first mate 🤖)
 - Buffer API (content distribution)
 - Aster Exchange (grid trading)
 - Polymarket (weather arb)
