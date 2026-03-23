@@ -4,7 +4,7 @@
 
 <br/>
 
-![I am the dev now](captain.jpeg)
+![I am the dev now](dev_now.jpeg)
 
 # I am the dev now.
 
